@@ -1,0 +1,5 @@
+# LOCATORS
+# Pattern for left nav panel
+US_SHOE_SIZE = f'//li[@class = "x-refine__main__list"]//div[contains(text(), {US Shoe Size})]'
+# Pattent for My eBay drop-down items
+SELLING = f'//ul[@id = "gh-ul-nav"]/li/a[contains(text(), "Selling")]'
